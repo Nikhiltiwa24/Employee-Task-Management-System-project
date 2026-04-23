@@ -1,0 +1,15 @@
+# Database configuration files (Optional, if you want to keep credentials secret)
+# DB_connection.php
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor Directories
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Log files
+*.log
