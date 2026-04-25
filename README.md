@@ -12,11 +12,6 @@
 + Task Filtering: Filter tasks by priority, status, deadline.
 + Task Deadlines: Track due dates and overdue tasks.
 
-## Requirements
-
-+ XAMPP (PHP, MySQL, Apache)
-+ PHP 7.4 or higher
-+ MySQL 5.7 or higher
 
 ## Login Credentials:
 
